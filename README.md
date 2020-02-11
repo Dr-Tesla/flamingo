@@ -1,8 +1,6 @@
 # Flamingo
 
-Jordan Ramsey, Jack Erwin, Blake Ottinger, Grant Hitson,
-
-## Makie Michaux, Luke Lanier, Jacob Hill
+Jordan Ramsey, Jack Erwin, Blake Ottinger, Grant Hitson, Makie Michaux, Luke Lanier, Jacob Hill
 
 
 ## Introduction
