@@ -125,7 +125,7 @@ Risk Probability of
 Loss
 Size of Loss (wks) Risk Exposure
 (wks)
-```
+
 1. Unrealistic
     schedule
        35% 4-5 12
@@ -146,16 +146,17 @@ Size of Loss (wks) Risk Exposure
 7. Unrealistic Scope 35% 2-3 3-
 ```
 **Risk Resolution:**
+```
 ● 1. Develop a software plan and stick to the plan
 ● 2. Carefully survey and understand the consumers needs
 ● 3. Make sure everyone is on the same page
 ● 4. Divide up work equally and efficiently
 ● 5. Utilize each team members key skills
 ● 6. Rotate management position/role in order to utilize each team members
-leadership skills
+     leadership skills
 ● 7. Complete adequate research and be honest with ourselves about our
-capabilities
-
+     capabilities
+```
 
 ## Schedule:
 
@@ -209,18 +210,28 @@ Name Skills**
 
 
 **Hardware:**
+
+
 ● ​PC
+
 ● ​Macbook
+
+
 **Software:**
-● **Angular** ​ – JavaScript open source web framework created by the Angular
+
+* ● **Angular** ​ – JavaScript open source web framework created by the Angular
 team at Google that allows the development of modern web applications. Angular
 allows developers to implement MVC architecture.
-● **Bootstrap** ​ – Open source CSS framework to develop responsive web
+
+* ● **Bootstrap** ​ – Open source CSS framework to develop responsive web
 applications.
-● **Flask** ​ – Python micro web framework useful for implementing backend RESTful
+
+* ● **Flask** ​ – Python micro web framework useful for implementing backend RESTful
 API.
-● **Slack** ​ – Instant messaging platform for team communication.
-● **Trello** ​ – Task management application.
+
+* ● **Slack** ​ – Instant messaging platform for team communication.
+
+* ● **Trello** ​ – Task management application.
 
 
 ## Activity Log:
