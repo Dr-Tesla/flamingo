@@ -123,6 +123,7 @@ Size of Loss (wks) Risk Exposure
     hnical leadership
        100% 1-2 12
 7. Unrealistic Scope 35% 2-3 3-
+
 **Risk Resolution:**
 ● 1. Develop a software plan and stick to the plan
 ● 2. Carefully survey and understand the consumers needs
@@ -139,9 +140,11 @@ capabilities
 
 **Project work breakdown structure:**
 Figure 1.
+![alt text](http://url/to/img.png)
+
 **Task Network:**
 Figure 1.
-
+![alt text](http://url/to/img.png)
 
 **Gantt Time-Line Chart:**
 Figure 1.
